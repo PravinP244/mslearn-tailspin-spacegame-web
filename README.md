@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/azLearningOrg/Tailspin%20Space%20Game/_apis/build/status/PravinP244.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/azLearningOrg/Tailspin%20Space%20Game/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
